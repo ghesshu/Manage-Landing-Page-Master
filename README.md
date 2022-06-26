@@ -1,9 +1,10 @@
 # Manage Landing Page Master
- Manage Landing Page
+
+Manage Landing Page
 
 # Frontend Mentor - Manage landing page solution
 
-This is a solution to the [Manage landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Manage landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -19,13 +20,13 @@ This is a solution to the [Manage landing page challenge on Frontend Mentor](htt
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-This is a Landing page for Manage
 
+This is a Landing page for Manage
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/ghesshu/Manage-Landing-Page-Master)
+- Live Site URL: (https://manage-landing-page-master-ghesshu.vercel.app/)
 
 ## My process
 
@@ -37,16 +38,9 @@ This is a Landing page for Manage
 - Mobile-first workflow
 - [Tailwindcss](https://tailwindcss.com/) - CSS library
 
-
 ### What I learned
 
 I really did get a huge grasp on Tailwind Css after working on this project.
-
-
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
@@ -58,13 +52,8 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 - [Flexbox Cheatsheet](https://flexboxsheet.com) - This a blog that contains more information about flexbox
 
-
 ## Author
 
 - Website - [Hughes Tottimeh](https://github.com/ghesshu)
 - Frontend Mentor - [@ghesshu](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@ghes_hu](https://www.twitter.com/ghes_hu)
-
-
-
-
